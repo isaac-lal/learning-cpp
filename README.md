@@ -1,1 +1,1 @@
-# Learning C++
+#### This repository contains my journey in learning C++. It contains all my tutorials that I have used, personal programs, and notes. Enjoy!
